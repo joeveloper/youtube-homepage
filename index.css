@@ -62,3 +62,26 @@ nav {
 
 }
 
+/* ------------------VIDEO PLAYER CSS------------------ */
+.play-container {
+    padding-left: 2%;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.play-video {
+    flex-basis: 69%;
+}
+
+.play-video iframe {
+    width: 100%;
+}
+
+.right-sidebar {
+    flex-basis: 30%;
+}
+
